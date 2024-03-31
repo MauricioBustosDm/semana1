@@ -1,0 +1,36 @@
+.box-unidad-1{
+	width: 400px;
+  height: 400px;
+  border-radius : 50% ;
+  border: 60px solid #f5b;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+.box-unidad-2{
+	width: 70px;
+  height: 260px;
+  background-color: #f5b;
+  border: 30px solid #fff;
+  position: relative;
+  top: -500px;
+  left: 240px;
+}
+.box-unidad-circulo1{
+    width: 70px;
+  height: 70px;
+  background-color: #f5b;
+  border-radius : 50% ;
+  position: relative;
+  top: -560px;
+  left: 270px;
+  }
+  .box-unidad-circulo2{
+    width: 70px;
+  height: 70px;
+  background-color: #f5b;
+  border-radius : 50% ;
+  position: relative;
+  top: -900px;
+  left: 270px;
+  }

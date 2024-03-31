@@ -1,0 +1,27 @@
+.box-unidad-1{
+	width: 380px;
+  height: 380px;
+  border-radius : 50% ;
+  border: 45px solid #1c6;
+  position: relative;
+  top: 40px;
+  left: 55px;
+}
+.box-unidad-2{
+	width: 170px;
+  height: 170px;
+  border-radius : 50% ;
+  border: 45px solid#1c6 ;
+  position: relative;
+  top: -330px;
+  left: 160px;
+}
+.box-unidad-3{
+	width: 90px;
+  height: 90px;
+  background-color:  #1c6;
+  border-radius : 50% ;
+  position: relative;
+  top: -505px;
+  left: 245px;
+}
